@@ -1,16 +1,5 @@
 ## Thank you for visiting @ItzHerbie
-#### Experienced Curator with a
- demonstrated history of developing
- and implementing custom detection
- rules and queries within Azure
- Sentinel, tailored to the unique
- requirements of the environment.
- Through continuous refinement and
- optimization, I help enhance the
- efficacy of security monitoring
- capabilities, bolstering the ability to
- detect and thwart emerging threats
- effectively.
+#### Experienced Curator with a demonstrated history of developing and implementing custom detection rules and queries within Azure Sentinel, tailored to the unique requirements of the environment. Through continuous refinement and optimization, I help enhance the efficacy of security monitoring capabilities, bolstering the ability to detect and thwart emerging threats effectively.
 
  
 ### :hammer_and_wrench: Languages and Tools :
