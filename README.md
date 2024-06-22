@@ -2,7 +2,8 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-plain-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 <!--
 **ItzHerbie/ItzHerbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
