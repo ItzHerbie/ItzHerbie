@@ -6,7 +6,6 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/ItzHerbie.png" alt="TryHackMe">
 </div>
 
-<script src="https://tryhackme.com/badge/146847"></script>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
