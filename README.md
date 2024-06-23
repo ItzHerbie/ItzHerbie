@@ -2,7 +2,7 @@
 
 #### Experienced Curator with a demonstrated history of developing and implementing custom detection rules and queries within Azure Sentinel and Defender XDR, tailored to the unique requirements of the environment. Through continuous refinement and optimization, I help enhance the efficacy of security monitoring capabilities, bolstering the ability to detect and thwart emerging threats effectively.
 
-![tryhackme stats](https://raw.githubusercontent.com/<ItzHerbie>/<ItzHerbie>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/ItzHerbie/ItzHerbie/master/assets/thm_propic.png)
  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
