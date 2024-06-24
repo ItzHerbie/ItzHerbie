@@ -21,6 +21,6 @@ jobs:
           node-version: '20'
 
       - name: Run updateBadge script
-        run: node updateBadge.js
+        run: node workflows/updateBadge.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
