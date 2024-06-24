@@ -6,6 +6,11 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/ItzHerbie.png" alt="TryHackMe">
 </div>
 
+Check out my TryHackMe progress:
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/146847.png)
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Git" **alt="Git" width="40" height="40"/>
