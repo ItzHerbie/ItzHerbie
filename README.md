@@ -7,6 +7,7 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/ItzHerbie.png" alt="TryHackMe">
 </div>
 
+![TryHackMe Badge](./badge.png)
 
 
 ### :hammer_and_wrench: Languages and Tools :
