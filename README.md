@@ -14,8 +14,17 @@
 </div>
 
 ### :open_book: Book Suggestions :
-* Sandworm - Andy Greenberg
+* Blue Team Field Manual (BTFM) - Alan White & Ben Clark
 * Dark Wire - Joseph Cox
+* Defensive Security Handbook - Lee Brotherston & Amanda Berlin
+* Hacking, The Art of Exploitation - Jon Erickson
+* Hands on Hacking - Matthew Hickey with Jennifer Arcuri
+* Operator Handbook, Search.Copy.Paste.L33t:) - NetMux
+* Red Team Field Manual (RTFM) - Ben Clark
+* Sandworm - Andy Greenberg
+* The Practice of Network Security Monitoring - Richard Bejitlich
+* Tribe of Hackers, Blue Team  - Marcus J. Carey & Jennifer Jin
+
 
 
 
