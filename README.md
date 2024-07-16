@@ -19,7 +19,7 @@
 * [Defensive Security Handbook - Lee Brotherston & Amanda Berlin](https://amzn.to/3SdzYue)
 * [Hacking, The Art of Exploitation - Jon Erickson](https://amzn.to/3zHezDk)
 * [Hands on Hacking - Matthew Hickey with Jennifer Arcuri](https://amzn.to/4f3RTND)
-* Operator Handbook, Search.Copy.Paste.L33t:) - NetMux
+* Operator Handbook, Search.Copy.Paste.L33t :) - NetMux
 * [Red Team Field Manual (RTFM) - Ben Clark](https://amzn.to/4c2Akel)
 * [Sandworm - Andy Greenberg](https://amzn.to/4d5w8eq)
 * [The Practice of Network Security Monitoring - Richard Bejitlich](https://amzn.to/4dmNd3Z)
