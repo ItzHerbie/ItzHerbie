@@ -13,7 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :open_book: Book Suggestions :
+### :open_book: Book Suggestions (Cybersecurity) :
 * Blue Team Field Manual (BTFM) - Alan White & Ben Clark
 * Dark Wire - Joseph Cox
 * Defensive Security Handbook - Lee Brotherston & Amanda Berlin
