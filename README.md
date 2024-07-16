@@ -1,7 +1,7 @@
 ## Thank you for visiting my repository! 
 
 ### Experienced curator with a demonstrated history of developing and implementing custom detection rules and queries within Azure Sentinel and Defender XDR, tailored to the unique requirements of the environment. Through continuous refinement and optimization, I help enhance the efficacy of security monitoring capabilities, bolstering the ability to detect and thwart emerging threats effectively.<br />
-
+</p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/ItzHerbie.png?version=5" alt="TryHackMe">
 
 
