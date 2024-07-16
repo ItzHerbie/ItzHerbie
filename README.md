@@ -14,7 +14,7 @@
 </div>
 
 ### :open_book: Book Suggestions (Cybersecurity) :
-I have read and/or currently reading the following box. The books that lean more toward opperational I use on a continual bases to improve my skills and knowledge.
+##### I have read and/or currently reading the following box. The books that lean more toward opperational I use on a continual bases to improve my skills and knowledge.
 * [Blue Team Field Manual (BTFM) - Alan White & Ben Clark](https://amzn.to/3xPrr9X)
 * [Dark Wire - Joseph Cox](https://amzn.to/3W4Hh8B)
 * [Defensive Security Handbook - Lee Brotherston & Amanda Berlin](https://amzn.to/3SdzYue)
