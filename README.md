@@ -14,7 +14,7 @@
 </div>
 
 ### :open_book: Book Suggestions (Cybersecurity) :
-* Blue Team Field Manual (BTFM) - Alan White & Ben Clark
+* [Blue Team Field Manual (BTFM) - Alan White & Ben Clark](https://amzn.to/3xPrr9X)
 * Dark Wire - Joseph Cox
 * Defensive Security Handbook - Lee Brotherston & Amanda Berlin
 * Hacking, The Art of Exploitation - Jon Erickson
