@@ -4,7 +4,6 @@
 <br />
 <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/ItzHerbie.png?version=5" alt="TryHackMe">
 
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Git" **alt="Git" width="40" height="40"/>
