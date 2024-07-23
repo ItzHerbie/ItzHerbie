@@ -5,7 +5,7 @@
 <br />
 
 #### Repository
-1. Detections and Threat Hunting: [KQL](https://github.com/ItzHerbie/KQL)
+1. Detections and Threat Hunting/[KQL](https://github.com/ItzHerbie/KQL)
 
 
 ### :hammer_and_wrench: Languages and Tools : 
