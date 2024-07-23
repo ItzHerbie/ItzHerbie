@@ -8,7 +8,7 @@
 1. Detections and Threat Hunting: [KQL](https://github.com/ItzHerbie/KQL)
 
 
-### :hammer_and_wrench: Languages and Tools :
+<img align="right" ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Git" **alt="Git" width="40" height="40"/>
