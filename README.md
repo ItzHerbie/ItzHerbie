@@ -1,4 +1,4 @@
-## Thank you for visiting my repository! <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/ItzHerbie.png?version=6" alt="TryHackMe">
+## Thank you for visiting my repository! <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/ItzHerbie.png?version=7" alt="TryHackMe">
 
 <br />
 
