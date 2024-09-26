@@ -8,6 +8,7 @@
 #### Repository
 1. Detections and Threat Hunting/[KQL](https://github.com/ItzHerbie/KQL)
 2. Threat Intelligence/[ThreatIntel](https://github.com/ItzHerbie/ThreatIntel)
+3. Security Lists/[Lists](https://github.com/ItzHerbie/Lists)
 
 
 ### :hammer_and_wrench: Languages and Tools : 
