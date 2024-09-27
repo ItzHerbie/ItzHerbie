@@ -5,7 +5,7 @@
 ### Experienced curator with a demonstrated history of developing and implementing custom detection rules and queries within Azure Sentinel and Defender XDR, tailored to the unique requirements of the environment. Through continuous refinement and optimization, I help enhance the efficacy of security monitoring capabilities, bolstering the ability to detect and thwart emerging threats effectively.<br />
 <br />
 
-### Repository
+### Repositories
 1. Detections and Threat Hunting/[KQL](https://github.com/ItzHerbie/KQL)
 2. Threat Intelligence/[ThreatIntel](https://github.com/ItzHerbie/ThreatIntel)
 3. Security Lists/[Lists](https://github.com/ItzHerbie/Lists)
