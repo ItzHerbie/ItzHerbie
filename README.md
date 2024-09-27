@@ -5,19 +5,10 @@
 ### Experienced curator with a demonstrated history of developing and implementing custom detection rules and queries within Azure Sentinel and Defender XDR, tailored to the unique requirements of the environment. Through continuous refinement and optimization, I help enhance the efficacy of security monitoring capabilities, bolstering the ability to detect and thwart emerging threats effectively.<br />
 <br />
 
-#### Repository
+### Repository
 1. Detections and Threat Hunting/[KQL](https://github.com/ItzHerbie/KQL)
 2. Threat Intelligence/[ThreatIntel](https://github.com/ItzHerbie/ThreatIntel)
 3. Security Lists/[Lists](https://github.com/ItzHerbie/Lists)
-
-
-### :hammer_and_wrench: Languages and Tools : 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 
 ### :open_book: Book Suggestions (Cybersecurity) :
 ##### I have read and/or currently reading the following books. The books that lean more towards opperational I use on a continual bases to improve my skills.
