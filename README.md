@@ -1,4 +1,5 @@
-## Thank you for visiting my repository! <img algin="right" img src="https://tryhackme-badges.s3.amazonaws.com/ItsHerbie.png?version1" alt="Your Image Badge" /> 
+## Thank you for visiting my repository! <img algin="right" img src="https://tryhackme-badges.s3.amazonaws.com/ItsHerbie.png?version2" alt="Your Image Badge" />
+
 
 
 
