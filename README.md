@@ -18,8 +18,7 @@
 
 ### Repositories
 1. Detections and Threat Hunting/[KQL](https://github.com/ItzHerbie/KQL)
-2. Threat Intelligence/[ThreatIntel](https://github.com/ItzHerbie/ThreatIntel)
-3. Security Operations Oversight/[SecOps](https://github.com/ItzHerbie/SecOps-Oversight)
+
 
 ### :open_book: Book Suggestions (Cybersecurity) :
 ##### I have read and/or currently reading the following books. The books that lean more towards opperational I use on a continual bases to improve my skills.
