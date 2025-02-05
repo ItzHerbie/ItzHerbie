@@ -14,9 +14,10 @@
 #### Outside of work, I’m dedicated to advancing my skills through hands-on projects in my home lab. Continuous learning drives me, with ongoing training in network exploitation, threat intelligence, detection engineering, and log management to refine my craft. Learning platforms like TryHackMe has helped me advance my career.
 
 #### Let’s connect and secure the future together! <br />
-
+#---------------------------------
 ### Repositories
-1. Detections and Threat Hunting/[KQL](https://github.com/ItzHerbie/KQL)
+1. Detections and Threat Hunting/[KQL](https://github.com/ItzHerbie/KQL) <br />
+#---------------------------------
 
 
 ### :open_book: Book Suggestions (Cybersecurity) :
