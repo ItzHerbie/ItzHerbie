@@ -7,7 +7,7 @@
 
 <br />
 
-#### As a passionate Security Operations Analyst with a solid foundation in IT infrastructure and cybersecurity, I specialize in building tailored solutions to protect organizations against emerging threats. With expertise in Azure Sentinel and Microsoft XDR, I craft custom detection rules and queries that turn complex business needs into actionable security measures. My proactive approach ensures the continual refinement of detection methods to stay ahead of evolving trends.
+#### As a passionate Security Engineer with a solid foundation in IT infrastructure and cybersecurity, I specialize in building tailored solutions to protect organizations against emerging threats. With expertise in Azure Sentinel and Microsoft XDR, I craft custom detection rules and queries that turn complex business needs into actionable security measures. My proactive approach ensures the continual refinement of detection methods to stay ahead of evolving trends.
 
 #### With a career spanning technical support to advanced security engineering, I bring a deep understanding of IT systems, threat detection, and response strategies. I thrive on analyzing security incidents, develop detection rules, and integrating diverse data sources to enrich alert intelligence.
 
