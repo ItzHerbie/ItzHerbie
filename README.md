@@ -16,7 +16,8 @@
 #### Let’s connect and secure the future together! <br />
 ---------------------------------
 ### Repositories
-1. Detections and Threat Hunting/[KQL](https://github.com/ItzHerbie/KQL) <br />
+1. Detections and Threat Hunting/[KQL](https://github.com/ItzHerbie/KQL) 
+2. [Homelab]() <br />
 
 ---------------------------------
 
