@@ -25,6 +25,7 @@
 ### :open_book: Book Suggestions (Cybersecurity) :
 ##### I have read and/or currently reading the following books. The books that lean more towards opperational I use on a continual bases to improve my skills.
 * [Blue Team Field Manual (BTFM) - Alan White & Ben Clark](https://amzn.to/3xPrr9X)
+* [Red Team Feild Manual (RTFM) - Ben Clark](https://a.co/d/1yWHrrm)
 * [Dark Wire - Joseph Cox](https://amzn.to/3W4Hh8B)
 * [Defensive Security Handbook - Lee Brotherston & Amanda Berlin](https://amzn.to/3SdzYue)
 * [Hacking, The Art of Exploitation - Jon Erickson](https://amzn.to/3zHezDk)
