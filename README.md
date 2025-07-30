@@ -10,7 +10,7 @@
 #### Outside of work, I’m dedicated to advancing my skills through hands-on projects in my home lab. Continuous learning drives me, with ongoing training in network exploitation, threat intelligence, detection engineering, and log management to refine my craft. Learning platforms like TryHackMe has helped me advance my career.
 
 #### Let’s connect and secure the future together! 
-<p align="right">
+<p align="left">
   <img src="https://tryhackme-badges.s3.amazonaws.com/ItzHerbie.png" alt="Your Image Badge" />
 </p>
 
