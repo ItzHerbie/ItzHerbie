@@ -2,7 +2,6 @@
   Thank you for visiting my repository!
 </h2>
 
-
 <br />
 
 #### As a passionate Security Engineer with a solid foundation in IT infrastructure and cybersecurity, I specialize in building tailored solutions to protect organizations against emerging threats. With expertise in Azure Sentinel and Microsoft XDR, I craft custom detection rules and queries that turn complex business needs into actionable security measures. My proactive approach ensures the continual refinement of detection methods to stay ahead of evolving trends.
