@@ -1,11 +1,7 @@
-## Thank you for visiting my repository! 
-<p align="right">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ItzHerbie.png" alt="Your Image Badge" />
-</p>
-
-
-
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2>Thank you for visiting my repository!</h2>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ItzHerbie.png" alt="Your Image Badge" height="50" />
+</div>
 
 
 <br />
