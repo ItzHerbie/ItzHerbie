@@ -1,6 +1,6 @@
 <h2>
   Thank you for visiting my repository!
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ItzHerbie.png" alt="Your Image Badge" height="30" style="vertical-align: middle; margin-left: 10px;" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ItzHerbie.png" alt="Your Image Badge" height="80" style="vertical-align: middle; margin-left: 10px;" />
 </h2>
 
 
