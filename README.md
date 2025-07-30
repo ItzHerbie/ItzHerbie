@@ -13,9 +13,9 @@
 <p align="left">
   <img src="https://tryhackme-badges.s3.amazonaws.com/ItzHerbie.png" alt="Your Image Badge" />
 </p>
-
 <br /> 
 ---------------------------------
+
 ### Repositories
 1. Detections and Threat Hunting/[KQL](https://github.com/ItzHerbie/KQL) 
 2. [Homelab](https://github.com/ItzHerbie/Homelab) <br />
