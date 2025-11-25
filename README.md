@@ -18,7 +18,7 @@
 ---------------------------------
 
 ### Repositories
-1. Detections and Threat Hunting/[KQL](https://github.com/ItzHerbie/KQL) 
+1. [KQL](https://github.com/ItzHerbie/KQL) 
 2. [Homelab](https://github.com/ItzHerbie/Homelab)
 3. [Scripts](https://github.com/ItzHerbie/Scripts) <br />
 
