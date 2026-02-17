@@ -21,9 +21,8 @@
 1. [KQL](https://github.com/ItzHerbie/KQL)
    * [Detections](https://github.com/ItzHerbie/KQL/tree/main/Detections)
    * [Hunting](https://github.com/ItzHerbie/KQL/tree/main/Hunting)
-2. [Homelab](https://github.com/ItzHerbie/Homelab)
-3. [Scripts](https://github.com/ItzHerbie/Scripts)
-4. [ThreatIntel](https://github.com/ItzHerbie/ThreatIntel) <br />
+2. [Scripts](https://github.com/ItzHerbie/Scripts)
+3. [ThreatIntel](https://github.com/ItzHerbie/ThreatIntel) <br />
 
 ---------------------------------
 
